@@ -1,0 +1,11 @@
+# Bibliotecas base para manipulação de dados e cálculos
+pandas
+numpy
+
+# Motores de armazenamento para arquivos Parquet
+pyarrow
+fastparquet
+
+# Framework de visualização e processamento gráfico
+# Nota: Certifique-se de ter o Java instalado para o py5
+py5
